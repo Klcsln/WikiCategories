@@ -16,8 +16,9 @@
     virtualenv ../WikiCategories
     source bin/activate
     ``` 
-    #### Then run the shell script
+    #### Make the shell script executable then run it
     ```sh
+    chmod u+x deploy.sh
     ./run.sh wikipediaCategoryUrl
     ```
     e.g.
