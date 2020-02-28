@@ -10,7 +10,7 @@
     ```sh
     cd WikiCategories/
     ```
-3. #### Run the run.sh bash script. This will setup everything automatically for you, you can check commands run by opening run.sh on any text editor. A warning though, it will install the packages in requirements.txt globally without creating a virtual environment as I didn't want to spend more time figuring that out. It's 4 am. So I would recommend running everything in a virtual environment of your own. The following should do the trick
+3. #### Run the run.sh bash script. This will setup everything automatically for you, you can check the commands run by opening run.sh on any text editor. A warning though, it will install the packages in requirements.txt globally without creating a virtual environment as I didn't want to spend more time figuring that out. It's 4 am. So I would recommend running everything in a virtual environment of your own. The following should do the trick
     ```sh
     pip install virtualenv
     virtualenv ../WikiCategories
