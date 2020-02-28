@@ -18,7 +18,7 @@
     ``` 
     #### Make the shell script executable then run it
     ```sh
-    chmod u+x deploy.sh
+    chmod u+x run.sh
     ./run.sh wikipediaCategoryUrl
     ```
     e.g.
